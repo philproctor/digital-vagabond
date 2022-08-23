@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = '/digital-vagabond/'
 languageCode = 'en-us'
 title = 'Digital Vagabond'
 theme = "hello-friend-ng"
