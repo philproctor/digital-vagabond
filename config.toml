@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'Digital Vagabond'
+title = 'The Nomad Lab'
 theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
@@ -57,7 +57,7 @@ keywords = ""
 images = [""]
 
 # Home subtitle of the index page.
-homeSubtitle = "Life in the Nomad Lab"
+homeSubtitle = "Nomadic expeditions in the digital era"
 
 # Set a background for the homepage
 # backgroundImage = "assets/images/background.jpg"
@@ -88,10 +88,10 @@ topText = []
 bottomText = []
 
 [params.logo]
-logoText = "digital vagabond"
+logoText = "the nomad lab"
 logoHomeLink = "/"
-logoCursorColor = "#32a232"
-logoCursorAnimate = "3s"
+logoCursorColor = "#12a212"
+logoCursorAnimate = "2s"
 logoMark = "➤"
 
 [params.favicon.color]
